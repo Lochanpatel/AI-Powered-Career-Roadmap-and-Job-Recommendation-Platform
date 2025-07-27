@@ -40,7 +40,7 @@ Backend	Node.js + Express.js
 Database	MongoDB with Mongoose
 Auth	JWT + Google OAuth
 Extras	OpenAI API (for roadmap suggestions), Cheerio (for job scraping), Multer (for resume upload)
-Optional	Redis (for caching), GraphQL (for job data queries), Firebase (for notifications)
+Redis (for caching), GraphQL (for job data queries), Firebase (for notifications)
 
 💡 Sample Resume Bullet Points:
 pgsql
